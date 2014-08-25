@@ -1,9 +1,7 @@
 # Rest Client for Code Camp
 ---
-# Here is a brief example ofhow to use it.
----
 
-## Make a 'GET' call
+## Make a 'GET' call to url example
 ---
 
 ```java
@@ -21,7 +19,7 @@
 		 }
 ```
 
-## Make a 'POST' call
+## Make a 'POST' call to url example
 ---
 
 ```java
